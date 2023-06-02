@@ -1,7 +1,7 @@
 // Tutorial 5b. COB LED with smooth 12-bit dimming control
 
 // Main parts: Adafruit Metro Mini, potentiometer, capacitor, COB LED,
-// LED driver, heat-sink
+// MEANWELL LDB-500LW CC-PSU, heat-sink
 
 // Variables that remain constant
 const byte pinPotentiometer = A0; // Analog input pin from potentiometer
