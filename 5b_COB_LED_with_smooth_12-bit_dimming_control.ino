@@ -74,7 +74,7 @@ void loop()
     delay(1000);*/
 }
 
-// Only for demostrating the visually linear fade corrected for human eye
+// Only for demostrating the visually linear fade corrected for human brightness perception
 // response
 /*void fadeUp()
 {
