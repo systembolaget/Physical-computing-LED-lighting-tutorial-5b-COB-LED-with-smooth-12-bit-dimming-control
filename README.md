@@ -15,16 +15,16 @@ You can click the image to play the associated YouTube video
 ### BOM
 
 <pre>
-€   4,00 CITIZEN CLU701-0303C4-303H5K2 LED
-€   1,00 3M 8810 thermally conductive adhesive tape
-€   7,00 fischer elektronik ICK LED R 33 x 16,5 G heat-sink
-€   6,00 MEANWELL LDB-500LW CC-PSU
+€  4,00 CITIZEN CLU701-0303C4-303H5K2 LED
+€  1,00 3M 8810 thermally conductive adhesive tape
+€  7,00 fischer elektronik ICK LED R 33 x 16,5 G heat-sink
+€  6,00 MEANWELL LDB-500LW CC-PSU
 € 14,00 Adafruit Metro Mini 328 5V 16MHz microcontroller
-€   1,00 Breadboard trim potentiometer 10kΩ
-€   4,00 Half-size transparent breadboard
-€   1,00 Jumper cables
-€   1,00 2,1mm DC barrel-jack
-€   1,00 100µF 10V & 1000 µF 16V el. cap., 1kΩ resistor
+€  1,00 Breadboard trim potentiometer 10kΩ
+€  4,00 Half-size transparent breadboard
+€  1,00 Jumper cables
+€  1,00 2,1mm DC barrel-jack
+€  1,00 100µF 10V & 1000 µF 16V el. cap., 1kΩ resistor
 € 12,00 MEANWELL GST36E12-P1J PSU
 € 52,00
 </pre>  
