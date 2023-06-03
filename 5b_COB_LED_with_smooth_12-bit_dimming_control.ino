@@ -75,7 +75,7 @@ void loop()
   // is necessary. Read the voltage from the potentiometer pin and divide
   // the result (0 - 1023) by 4 to get a range of 0 - 255 for the array,
   // the lookup-table with pre-computed logarithmic dimming values
-  int readingPotentiometer = analogRead(pinPotentiometer) / 4;
+  int readingPotentiometer = analogRead(pinPotentiometer) / 2;
 
   // Fetch the matching lookup-table value and assign it to the Timer 1
   // Output Compare Register to set the LED driver's duty cycle
@@ -83,9 +83,9 @@ void loop()
 
   // Only for demostrating the visually linear fade corrected for human brightness perception
   fadeUp();
-    delay(1090);
+    delay(2000);
     fadeDown();
-    delay(20);
+    delay(2000);
 }
 
 // Only for demostrating the visually linear fade corrected for human brightness perception
