@@ -73,7 +73,7 @@ void loop()
 {
   // The potentiometer is hardware smoothed with a 10uF capacitor; no code
   // is necessary. Read the voltage from the potentiometer pin and divide
-  // the result (0 - 1023) by 4 to get a range of 0 - 255 for the array,
+  // the result (0 - 1023) by 2 to get a range of 0 - 511 for the array,
   // the lookup-table with pre-computed logarithmic dimming values
   int readingPotentiometer = analogRead(pinPotentiometer) / 2;
 
