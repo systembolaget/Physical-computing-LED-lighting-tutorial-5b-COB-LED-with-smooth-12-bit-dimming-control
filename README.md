@@ -1,6 +1,6 @@
 # Physical computing LED lighting tutorial - COB LED with smooth 12-bit dimming control
 
-Visually correct dimming and flicker reduction using PWM and a timer
+Better dimming and flicker reduction using a 12-bit timer and look-up table
 
 ### Setup
 
