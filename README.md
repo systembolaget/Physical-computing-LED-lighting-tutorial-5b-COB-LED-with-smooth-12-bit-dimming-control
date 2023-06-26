@@ -6,7 +6,7 @@ Better dimming and flicker reduction using a 12-bit timer and look-up table
 
 You can click the image to play the associated YouTube video
 
-[![Alt text](Assets/5b%20result.jpg)]([https://www.youtube.com/](https://youtu.be/ZvH-sIBlQfA))
+[![Alt text](Assets/5b%20result.jpg)](https://www.youtube.com/watch?v=ZvH-sIBlQfA)
 
 ### Schematic
 
